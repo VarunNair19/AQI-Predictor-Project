@@ -1,0 +1,19 @@
+# --- System & Environment (Junk) ---
+.venv/
+.idea/
+__pycache__/
+*.pyc
+aiml_brain/
+*.pkl
+
+#images
+*.png
+*.jpg
+*.jpeg
+
+#other files
+*.pptx
+PNQ_AQI.csv
+
+MAIN 2.py
+AQI_UI.py
