@@ -8,6 +8,7 @@ aiml_brain/
 
 #images
 *.png
+!AQI.png
 *.jpg
 *.jpeg
 
